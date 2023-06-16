@@ -76,3 +76,8 @@ margin: 0 96px;
 .secundaria-texto{
     color: var(--cinza-secundario);
 }
+
+.secundaria-botao{
+    display: inline-block;
+    margin-top: 16px;
+}
